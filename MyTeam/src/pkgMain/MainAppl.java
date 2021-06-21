@@ -10,6 +10,12 @@ public class MainAppl {
 		
 		player = new Player(8, "Alaba", "Defense");
 		System.out.println(player);
+		
+		
+		player = new Player(12, "Baumgartlinger", "Mittelfeld");
+		System.out.println(player);
+		player = new Player(12, "Baumgartlinger", "Mittelfeld");
+		System.out.println(player);
 
 	}
 
